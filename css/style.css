@@ -343,7 +343,7 @@ nav.opened .btn-hamburger span:nth-child(3) {
 }
 #about .container .about-image {
   background: url("../images/DSC_4702.jpg") no-repeat;
-  background-size: cover;
+  background-size: contain;
   width: 50%;
   min-height: 70vh;
 }
@@ -411,7 +411,7 @@ nav.opened .btn-hamburger span:nth-child(3) {
   background: url("../images/P1240120.JPG") no-repeat;
   width: 40vw;
   height: 50vh;
-  background-size: cover;
+  background-size: contain;
 }
 #new-member p {
   color: #fff;
